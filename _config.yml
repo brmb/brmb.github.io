@@ -21,13 +21,13 @@ timezone: Europe/Vilnius
 
 title: Cyber Security Space                          # the main title
 
-tagline: Security focused blog   # it will display as the sub-title
+tagline: Thoughts, stories and ideas from a Security Engineer by brmb   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Security focused blog by brmb
+  Thoughts, stories and ideas from a Security Engineer by brmb
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://brmb.github.io'
+url: 'https://security.lukasba.com'
 
 github:
   username: brmb             # change to your github username
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: brmb
-  email: example@domain.com             # change to your email address
+  email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/brmb_brmb      # change to your twitter homepage
