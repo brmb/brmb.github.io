@@ -15,4 +15,5 @@ Here you will find Security Engineer:
 * Corporate solutions
 * View at IPs/ports
 * and MUCH more!
-I will try to keep this blog as informative as possible while maintaining it simple. This blog will be active forever from 2023 and onwards.
+
+I will try to keep this blog as informative as possible while maintaining it simple. **This blog will be active forever from 2023 and onwards.**
