@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How I got into Cyber Security?"
+categories: [security]
+tags: [security,devsecops]
 ---
 
 # How I got into Cyber Security?
