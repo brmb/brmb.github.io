@@ -1,14 +1,1 @@
-You will find:
-* 
-* 
-* 
 
-```javascript
-console.log('hello. world!')
-```
-
-> This is a pro tip. File `_tabs/about.md`{: .filepath } is a file.
-{: .prompt-tip }
-
-## Image:
-![brmb-avatar](https://pbs.twimg.com/profile_images/1556539247762497537/doZRCKCT_400x400.png)

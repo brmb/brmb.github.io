@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "How I got into Cyber Security?"
-categories: [security]
-tags: [security,devsecops]
+date:   2022-10-31 11:00:00 +0200
+categories: security devsecops
 ---
 
 # How I got into Cyber Security?
